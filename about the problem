@@ -1,0 +1,7 @@
+Predicting price of houses based on different properties of the house. 
+Process of solving problem:
+  -	Loading test and train data
+  -	Data cleaning 
+  -	Learn prediction model
+  -	find MSE 
+
